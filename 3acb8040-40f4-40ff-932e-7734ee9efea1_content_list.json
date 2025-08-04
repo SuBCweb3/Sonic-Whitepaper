@@ -1,0 +1,745 @@
+[
+    {
+        "type": "image",
+        "img_path": "images/65b46bf4ea8b3dd46a1f048323269f912eafd584e7d08c8bef942a567772b1c4.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2025/8/4 21:20",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/669a18639066c111f29348254c68e8f24afa535cf0ae720c7227672248954766.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sonic: Where Builders Come First",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Unlocking Next- Gen Blockchain  Speed, Security, and Use Cases",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "By Sonic Labs  October 14, 2024",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Disclaimer",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "S token holders are responsible for the custody and security of their own tokens, including management of private keys and wallet access credentials. Sonic Labs does not provide custodial services and disclaims responsibility for any loss or theft of S tokens resulting from user error, unauthorized access, or failure to maintain secure storage. The S token does not represent any claim on Sonic Labs' assets, profits, or revenues, nor does it confer ownership, dividend rights, or profit participation in Sonic Labs or any affiliated entity. The holding or use of S tokens does not create a debtor- creditor or similar relationship between Sonic Labs and the holder.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "S tokens will be made available to the public through a combination of mechanisms including airdrops, exchange listings, DeFi and other distribution programs. The price of S tokens will be determined by market forces, except where tokens are distributed at no charge (e.g. through airdrop campaigns). Proceeds from any token sales or related activities will be used to fund the development of the Sonic blockchain, support ecosystem initiatives, grow the developer community, and cover operational and compliance costs.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The purchase, holding, and use of S tokens involves significant risk. These risks include, but are not imited to: volatility in the price of S tokens, regulatory uncertainty regarding the legal treatment of the S token in various jurisdictions, technological risks such as potential flaws, vulnerabilities, or failures in the Sonic blockchain's code or infrastructure, loss of access to tokens due to user error (e.g. loss of private keys), and market risks including low liquidity or demand for S tokens. Prospective holders should carefully assess these risks and seek independent professional advice as appropriate before acquiring S tokens. Token holders and/or users who wish to raise concerns or file complaints related to the S token or the Sonic blockchain may contact Sonic Labs at support@soniclabs.com. Complaints will be handled in accordance with Sonic Labs's internal procedures, with the aim of providing a response within 30 days of receipt.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Sonic Operations Ltd. (\"Sonic Labs\") is the entity facilitating the issuance of the S token and supporting the development of the Sonic blockchain. The Sonic network is decentralized, secured by a globally distributed set of independent validators, with no single operator controlling network consensus or block production. Sonic Labs is incorporated as an Exempted Company under the laws of the Cayman Islands with its registered office at c/o Stuarts Corporate Services Ltd., P.O. Box 2510, Kensington House, 69 Dr. Roy's Drive, Grand Cayman, KY1- 1104, Cayman Islands. Sonic Labs contributes to network development, ecosystem growth, and compliance support. Additional information is available at https://www.soniclabs.com/ and inquiries may be directed to legal@soniclabs.com.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This crypto- asset paper has not been approved by any competent authority in any Member State of the European Union. The S token does not benefit from the protection of deposit guarantee schemes or investor compensation schemes in the European Union. You should be aware that you might lose all the money invested. This white paper serves to provide comprehensive information for prospective holders and for the purpose of admission to trading within the European Union, but does not constitute a public offer (sale) of S tokens by Sonic Operations Ltd. at a fixed offer price or subscription period.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Table of Contents",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Abstract.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Introduction.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Business Case & Initial Objectives.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Incentives.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Sonic Labs Innovator Fund. 7  Airdrop Program. 7  Fee Monetization. 10  Sonic Liquid Staking Tokens (LSTs). 10",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Technology.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Sonic Gateway. 11  Sonic Database. 13  Sonic Virtual Machine. 13",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Tokenomics.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Airdrop Program. 14  Ongoing Funding. 14  Block Rewards. 15  Token Burn. 16",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Conclusion.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Abstract",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In an evolving blockchain landscape, what truly sets one network apart from countless others that fade away? For Sonic, we believe the key lies in offering unique products and features that empower developers to build applications more competitively than on any other chain. Our focus is on providing tangible value to developers by increasing their earnings, granting them control over network fee pricing, and streamlining user payment options, all with sub- second finality.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "However, many existing platforms have not adequately addressed these developer- centric needs. Ethereum, focusing on scalability through optimistic and zero- knowledge rollups, now has over USD 34 billion<sup>1</sup> locked in its layer- 2 (L2) networks. This shift towards L2 solutions has inadvertently emphasized extracting value through centralized sequencer fees rather than fostering high- quality application development. Incentive structures designed to drive higher valuations and fees through roll- up deployments have commoditized L2s, prioritizing sequencer revenue over security and decentralization.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This trend has created an imbalance: sequencers benefit disproportionately while developers remain undercompensated. Consequently, the adoption of innovative consumer apps has stalled, limiting their potential for significant market impact.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Recognizing these challenges, we introduce Sonic - a layer- 1 (L1) blockchain platform that redefines the developer incentive model. Sonic's Fee Monetization program allows developers to earn up to  $90\\%$  of the fees generated by their applications. With features like dynamic fees, fee subsidization, and native account abstraction, Sonic provides flexible tools to enhance user experience and foster adoption.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As legacy L1 chains face a critical juncture - evolve or risk irrelevance - Sonic leads the transformation by delivering unprecedented scalability, decentralization, and near- instant speed. Combining the strengths of L1 and L2 models, Sonic offers 400,000 transactions per second, sub- second finality, and a native, secure bridge to Ethereum and beyond for enhanced liquidity and security.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "By integrating cutting- edge technology with a revolutionary developer- centric model, Sonic aims to redefine the blockchain landscape, reinvigorating focus on productive consumer- facing applications and empowering builders to create profitable on- chain businesses.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Introduction",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This whitepaper introduces Sonic, our L1 network that provides the fastest settlement layer for digital assets with 400,000 transactions per second for native token transfers at sub- second finality, while connecting to Ethereum's liquidity through the Sonic Gateway.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Alongside this technological leap, we are revolutionizing application incentive structures, making Sonic the only L1 where developers truly come first, earning up to  $90\\%$  of all fees their apps generate through our unique Fee Monetization program. Additionally, we will support dynamic fee functionality, fee subsidization, and account abstraction.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Sonic is unique as the chain is built by the same team behind Fantom Opera, a chain that proved its resilience with over  $99.9\\%$  uptime over four years while supporting over USD 14 billion in total value locked at its peak².",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Business Case & Initial Objectives",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "As a decentralized proof- of- stake layer- 1 network, we are primarily offering distributed computing power supported by fees. However, the current perverse incentive structures within the industry cause fundamentally productive app and network revenue to be sidelined in favor of short- term parasitic and extractive monetization, leading to a decline in growth and momentum.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "As such, our measure of success is derived from a simple calculation that checks whether the network revenue is higher than the total cost to incentivize validators:",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[Success = (Transactions * Cost Per Transaction) - Total Cost To Incentivize Validators]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We create demand for these transactions by supporting developers and companies in building consumer or business- to- business (B2B) applications that require writing to the network for a fee. Sonic's objective is to drive demand to utilize the maximum amount of transactions our network can effectively supply without causing disruption while charging enough per transaction to cover the emission rate of the network.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Our network can comfortably finalize up to 900 million ERC- 20 transfers per day³ with sub- second TTF. This supply- side capacity far exceeds current demand. For example, all L2s combined handle around 12 million transactions per day, peaking at approximately 17 million.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Solana's notable recent peak was 40 million transactions per day<sup>4</sup>. Even combining these peaks totals about 57 million transactions per day, which is a fraction of our threshold.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "With an abundance of block space and transaction capacity, our focus shifts to building out that demand. Achieving more demand on one network than the entire industry currently processes requires bold initiatives, such as:",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "- Fee Monetization (FeeM), rewarding builders with up to  $90\\%$  of their apps' fees- Sonic Gateway, which allows users and builders to access Ethereum's liquidity- Orchestrating one of the largest airdrop campaigns in history to bootstrap the network's flywheel effect with new users and protocols.- Dynamic fee functionality, allowing developers to customize gas costs for interacting with their contracts, facilitating a creator economy on-chain.- Innovator Fund, which allocates up to 200,000,000 S tokens from the Sonic Labs treasury to acquire infrastructure and strategic partners for Sonic's long-term growth.- Sonic & Sodas, empowering our community to host developer-focused networking events around the world funded by Sonic Labs.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "All of this will be done alongside deploying AAA- grade infrastructure partners for our developer base to use, including Chainlink, Pyth, Dune, Alchemy, Safe, and more.",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/d467fa540cdb395f826642112b3268922329ca66da6b26475bed83daa527cbf5.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Incentives",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Drawing parallels to PayPal's early days, where Peter Thiel invested heavily in user acquisition by paying users \\(\\) 10$ for signing up and referring a friend, we aim to reach our own critical mass through significant upfront growth spend.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The Sonic Labs treasury will fund initiatives like the Innovator Program with up to 200,000,000 S tokens to expedite the immediate adoption of apps to the Sonic chain and support new innovative ventures. Our 190,500,000 S airdrop campaign will give Sonic developers a chance to attract more users by incentivizing app usage. Additionally, we are rapidly simplifying our liquid staking token (LST) market to give more flexibility to our dedicated token holders.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Sonic Labs Innovator Fund",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Funding from the Sonic Labs Innovator Fund comes directly from the Sonic Labs treasury and comprises up to 200,000,000 S tokens. It is currently being used to secure top- tier infrastructure integrations for the Sonic network, ensuring our builders have the tools and capabilities to thrive in today's challenging marketplace.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We are actively engaging with dozens of applications across the industry and top- tier infrastructure providers in areas like:",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "On- chain tooling Compliance Native assets Real- world assets Bridge integration Custodial solutions Institutional adoption Exchange- traded products Wallets Subgraphs Strategic Web2 partnerships And many more",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Publicly secured infrastructure integrations so far include Chainlink, Dune, Safe, Pyth, Alchemy, Redstone, Tenderly, and more.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Airdrop Program",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We're planning an airdrop of 190,500,000 S tokens to incentivize user and developer activity on both Opera and the new Sonic chain.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The first major component of our airdrop is our Sonic Boom program, which offers up to 30 winning projects an allocation of Sonic Gems - points for our airdrop - as bounties for developing innovative apps across various categories, which can help bootstrap the DeFi ecosystem on Sonic and kickstart the flywheel of adoption.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Projects can distribute these Gems to users as rewards for using their apps, helping them sustain user activity by incentivizing usage. We're aiming to discover promising teams and give them the tools they need to create successful applications in DeFi, gaming, AI, and more. Our airdrop focus is on empowering our developer base to hit their own critical mass so that we can continue to support their growth as they expand their businesses.",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/09a29a4a695233b140e379deb28a0a97bd9cdfee537b431f9df45edb39e35cac.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Airdrop Design",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We've designed a deflationary airdrop system, featuring a unique linear decay mechanism that introduces game theory to address the challenging nature of airdrop incentives on an active chain. Specifically, this airdrop requires a strategic design to minimize abrupt dislocation of circulating supply in short periods, which we believe a linear decay and burn solves.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The airdrop model utilizes a unique burn factor that encourages recipients to increase activity on- chain while awaiting their preferred exit burn. Recipients can either wait for the full maturation of their airdropped position or claim early with a burn penalty. For those who choose neither option, there will be a marketplace to trade their S airdrop allocation to speculative buyers.",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/24307f408d2d01d582ae6fba0f242b719d5eae32b2cdae3437f094b34614faee.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "On the first day of the airdrop,  $25\\%$  of a user's S token airdrop allocation will be liquid, while the remaining  $75\\%$  will be vested over 9 months (270 days) as ERC- 1155 NFT positions. Sonic users can claim this  $25\\%$  portion immediately and have the flexibility to decide when to claim their final allocation at the respective burn rate.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Users who choose to hold their NFT but wish to trade it on a secondary marketplace are free to do so, creating a speculative market on individual user airdrop allocations while also creating deflationary pressures on the airdrop. The chart below illustrates the amount of S tokens users would forfeit to the burn mechanism if they claim before the full 270- day maturation period.",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/9b853a2dd8733ba21a55148d53bad12d48ae0c3d5a4693961a87c8f69a937217.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Fee Monetization",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Fee Monetization Fee Monetization (FeeM) on Sonic lets builders earn  $90\\%$  of the network fees their apps generate, creating a sustainable revenue stream without relying on fundraising. Inspired by Web2 models like YouTube, FeeM rewards developers for the traffic they drive.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "FeeM also challenges the extractive \"app chain\" model by allowing builders to earn  $90\\%$  of their app's network fees without the need to launch a separate chain. This approach removes the high costs, infrastructure overhead, and interoperability challenges typically associated with app chains.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "By integrating monetization directly into the network layer, FeeM simplifies revenue capture and supports scalable, efficient app development within a unified, developer- friendly ecosystem.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Sonic Liquid Staking Tokens (LSTs)",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Sonic Liquid Staking Tokens (LSTs)Sonic's new staking mechanism will introduce a fixed 14- day lock- up period and a 7- day withdrawal window. This creates a predictable and efficient framework for building a robust liquid staking token (LST) market, enabling stakers to remain capital- efficient while still supporting network security. LSTs will unlock new DeFi use cases on Sonic, from collateralized lending to yield strategies and beyond.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Technology",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The Sonic chain provides developers with exceptional scalability and storage capabilities while delivering a fast and seamless user experience. Sonic achieves up to 400,000 transactions per second with sub- second finality for immediate, irreversible transactions and utilizes a cutting- edge storage system for efficient data management.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Unlike L2s and Ethereum, true finality is achieved in only one block (no longest- chain rule) and does not require packaging the data and writing back to Ethereum.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The Sonic blockchain utilizes a proof- of- stake consensus mechanism designed to minimize environmental impact relative to proof- of- work systems. Sonic aims to maintain a low carbon footprint by promoting efficient validation and network operation. A detailed assessment of Sonic's energy consumption and environmental impact is published on soniclabs.com/environment as part of our ongoing transparency commitments.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Sonic Gateway",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In the evolving blockchain landscape, a native, secure bridge is essential for a healthy ecosystem, enabling robust interoperability and preventing networks from being siloed. However, current layer- 1 and layer- 2 solutions often force users to compromise on security and speed, relying on systems that expose funds to significant risks - over \\(\\) 2.5$ billion has been lost already due to bridge hacks.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Recognizing these systemic threats, we had simple goals in mind for our bridge:",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Security: Ensure safety with a built- in fail- safe mechanism.- Speed: Provide a smooth user experience for easy asset bridging.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The Sonic Gateway is our secure bridge that facilitates ERC- 20 token transfers between Ethereum and Sonic With a built- in fail- safe mechanism, the Sonic Gateway provides asset security, safeguarding your funds under all circumstances.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The Sonic Gateway is designed for efficiency. Transfers from Ethereum to Sonic only take up to 10 minutes, while transfers from Sonic to Ethereum take up to 1 hour (these intervals are referred to as \"heartbeats\"). Although Sonic is not a layer 2, we will still be active participants in the Ethereum ecosystem as we spend ETH to write to the chain with the Sonic Gateway.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Fast-Lane Transaction",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Users have the option to execute transactions immediately using a \"Fast- Lane TX.\" By paying for a transaction that bypasses the standard heartbeat - which typically delays fund availability on the target chain - they can access their funds instantly.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The Fast- Lane Transaction transfers the entire state to the target chain just like a regular heartbeat transaction, benefiting all users - not just the one who submitted it. Essentially, it is equivalent to a heartbeat transaction but submitted earlier. Importantly, the Fast- Lane Transaction is added as an enhancement and does not alter the standard heartbeat timing.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "For example, if the standard heartbeat interval from Ethereum to Sonic is 10 minutes, submitting a Fast- Lane Transaction 5 minutes before the next scheduled heartbeat allows all users bridging from Ethereum to Sonic to access their funds immediately, while the next standard heartbeat remains 5 minutes away.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Gateway Fail-Safe Mechanism",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The Sonic Gateway has a built- in fail- safe mechanism with which users can retrieve their bridged assets on the original chain in the unlikely case that Sonic or its gateway experiences a failure.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "This fail- safe mechanism activates after 14 consecutive days of failed gateway operations, serving as a safeguard for users transferring assets from Ethereum to Sonic. Designed as a form of insurance, the 14- day fail- safe period is immutable, meaning it cannot be altered by Sonic Labs or any other third- party entity once the Sonic Gateway is deployed.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Importantly, this period is not intended as a contest period but rather as an essential feature that ensures users retain custody of their bridged funds on the originating chain.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "How the Fail- Safe Works",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "How the Fail- Safe WorksThe Sonic Gateway transmits heartbeats between the chains, which include each blockchain's Merkle root and block height. If the heartbeat ceases for 14 days, it signals that the Gateway has failed, allowing users' funds to be unlocked on Ethereum.",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/4cb8a4f42297921cb510f57e7ec7656a4dd5342d991826b02ab7ddf142b98248.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Only assets routed through the Sonic Gateway can be recovered. The 14- day duration serves as a buffer period to address any issues with the Gateway before it is deemed unusable.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Sonic vs. Layer 2s",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Most layer- 2 platforms are optimistic rollups that operate on the assumption that all withdrawals are valid unless contested (hence the name \"optimistic\"). To ensure security, a 7- day challenge period exists, allowing anyone to verify and dispute withdrawal claims made on Ethereum.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "For example, if you wish to withdraw 2 ETH from Optimism to any other platform, the assets will not actually be released on Ethereum until the 7- day challenge period has passed. So why does a transfer from platforms like Arbitrum and Optimism to an exchange like Binance only take a few minutes?",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "When depositing from an optimistic rollup to an exchange like Binance, the transfer may appear quick, but the exchange is assuming the risk associated with the challenge period; this is because Binance trusts most layer- 2 platforms. However, the funds credited to your account by the exchange are not technically secure until the 7- day challenge window closes, meaning the exchange bears the risk during this period.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In contrast, Sonic, as a layer- 1 platform with its own secure validators, offers instant (1- block) transfers to exchanges without the associated risk, as these transactions are not subject to any challenge period, which includes USDC (and other ERC- 20 tokens) if it becomes native on Sonic.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Additionally, assets bridged from Ethereum through the Sonic Gateway finalize within an hour, offering a much faster and safer alternative compared to the 7- day challenge period required by most layer- 2 solutions.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Sonic Database",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Sonic uses database storage to store its world state, which includes account information, virtual machine bytecode, smart contract storage, etc. This database has a feature called live pruning, which removes historical data automatically, reducing storage needs for validators as the blockchain grows.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Previously, pruning required validator nodes to go offline, risking financial and operational issues for them. Now, validators can use live pruning without going offline, ensuring continuous operation and saving on disk space and costs by discarding historical data in real- time.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Live pruning works by splitting the database into two types: LiveDB and ArchiveDB. The LiveDB contains the world state of the current block only, whereas the ArchiveDB contains the world states of all historical blocks. Validators use only LiveDB, while archive nodes have both LiveDB and ArchiveDB to handle historical data requests through the RPC interface.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Sonic's database storage uses efficient tree- like or hierarchical structures, which simplifies data retrieval. Importantly, it still provides cryptographic signatures for a world state and archive capabilities using an incremental version of a prefix algorithm.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Additionally, it utilizes a native disk format instead of storing the world state indirectly through key- value stores like LevelDB or PebbleDB.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Sonic Virtual Machine",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Sonic's virtual machine (VM) replaces the EVM and increases the speed of execution on Sonic. For our developer community, there is no need to worry - the VM is fully Solidity and Vyper compatible, allowing you to continue using the same development tools. Additionally, Sonic supports Geth 1.4.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The VM uses dynamic translation, where the code is translated into a more efficient instruction format inside the client, allowing for more efficient execution of the smart contract. This is achieved through more efficient implementation techniques and \"super- instructions,\" which are efficient representations of frequently occurring patterns in code.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Tokenomics",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The S token is the native token of Sonic. It has multiple roles within the network:",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "- Paying for transaction fees- Staking to participate in securing the chain (minimum 1 S)- Running a validator to secure the chain (minimum 50,000 S)- Participating in governance",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "At Sonic's launch, the total supply equaled 3.175 billion S. As decided by multiple governance proposals, the additions outlined further below will gradually be implemented into the tokenomics of the S token.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Airdrop Program",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "An additional  $6\\%$  of the 3.175 billion S will be minted six months after Sonic launches exclusively used for the airdrop program, rewarding both Fantom Opera and Sonic users and builders. The airdrop features an innovative burn mechanism that rewards active participation and gradually reduces the total supply of S tokens.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Ongoing Funding",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Six months after Sonic launches, the network will mint additional S tokens to:",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Increase S adoption and global presence Grow the team and scale operations to drive increased adoption Implement robust marketing initiatives and DeFi onboarding campaigns Launch the Sonic Spark and Sonic University programs to advance the future of Sonic",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "To fund this program, an additional  $1.5\\%$  of the initial total supply of S will be minted annually (corresponding to 47,625,000 tokens) for six years, starting six months after the mainnet launch.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "However, to guard against inflation, the network will burn newly minted tokens not used during the year, ensuring that  $100\\%$  of all newly minted tokens from this initiative are allocated toward network growth rather than being held by the treasury for later use.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "For example, if Sonic Labs uses only 5,000,000 tokens in the first year, the Sonic Foundation will burn the remaining 42,625,000 tokens.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Block Rewards",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "We are migrating validator rewards from Fantom Opera to Sonic. Initially, Opera validators were scheduled to receive rewards for several more years. However, as validators and stakers transition to Sonic, we will reduce their block rewards. The funds saved from this reduction will be reallocated to reward Sonic validators. Meanwhile, the Sonic Foundation will continue to maintain Opera validators for the foreseeable future.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Sonic aims for a target annual percentage yield (APR) of  $3.5\\%$ . To sustain this rate without causing inflation during the first four years, we are reallocating the remaining FTM block rewards from Opera to Sonic for validator and staker rewards. These rewards are already included in the initial supply of 3.175 billion S tokens.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "While the initial total supply of S is technically 3.175 billion to correspond with FTM's total supply, the circulating supply will be approximately 2,883,358,939 tokens at launch.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The difference — amounting to 70,067,224 tokens annually — will be distributed as rewards to validators over the first four years of Sonic. This approach allows us to avoid minting new S tokens for block rewards during this period.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "As a result of these changes, Opera's APR will drop to zero upon Sonic's launch. Additionally, to preserve value for all FTM and S token holders and eliminate the need for new inflationary rewards at Sonic's inception, we will not mint new tokens for validator security for the initial four years of Sonic's deployment. After these four years, S block rewards will continue by minting new tokens at a rate of  $1.75\\%$  per year to reward validators.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The chart below illustrates the complete emission of the S token over its first 7 years.",
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ceb0eaa3aa9cd948c94178e0f76ea8e11452646ad51718a5033ee948d5207dc.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Token Burn",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "We have two burn mechanisms in place that will decrease the emission of new S tokens:",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Airdrop Burn",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "- Users who choose not to wait for the full 270-day maturation period for  $75\\%$  of their airdrop will lose a portion of their S tokens, which will be burned.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Ongoing Funding Burn",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "- From the 47,625,000 S tokens minted annually in the first six years of Sonic to fund growth, the network will burn any of the tokens not used during the year.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Conclusion",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Sonic aims to revolutionize the blockchain industry by providing a next- generation layer- 1 platform that combines speed, scalability, and security. By introducing innovative features like Fee Monetization, a secure Gateway to Ethereum, and simplified staking mechanisms, Sonic positions itself as a developer- friendly platform that prioritizes builders and users alike.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Our commitment to fostering a robust developer ecosystem, coupled with strategic partnerships, sets the stage for unprecedented growth. With the capacity to handle up to 900 million ERC- 20 transactions per day and offering sub- second confirmation times, Sonic is poised to meet and exceed current industry demands and standards.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "By focusing on enabling **productive economic activity** through access to high- performance distributed computing power and **redefining network incentive structures**, Sonic seeks to drive mass adoption and usher in a new era where blockchain technology becomes seamlessly integrated into everyday applications. We invite developers, businesses, and users to join us on this exciting journey toward a more efficient, inclusive, and truly decentralized future.",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "获得资金 外部的 文件空投 博客 白皮书创新者基金 文档 环境费用货币化 媒体工具包 加斯利交易按 服务条款隐私政策",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "$①$  2025 Sonic Labs. 保留所有权利。",
+        "page_idx": 19
+    }
+]
